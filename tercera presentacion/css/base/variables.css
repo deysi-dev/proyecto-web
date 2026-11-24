@@ -1,0 +1,16 @@
+:root {
+    --color-fondo: #F4F1EB;
+    --color-negro: #171717;
+    --color-verde: #D5FF00;
+    --color-panel: #E7E3DC;
+    --color-blanco: #FFFFFF;
+    --color-secundario: #77766F;
+    --color-oliva: #68734B;
+    --color-azul: #526B9B;
+    --color-vino: #873E4C;
+    --color-terracota: #B86B45;
+    --color-lila: #9A86B5;
+    --color-arena: #C7AD8B;
+    --fuente: Arial, Helvetica, sans-serif;
+    --ancho-contenido: 1440px;
+}

@@ -1,0 +1,9 @@
+.announcement { padding: 7px 12px; background: var(--color-negro); color: var(--color-fondo); text-align: center; font-size: 10px; letter-spacing: .04em; }
+.announcement span { padding: 0 8px; color: var(--color-verde); }
+.header { min-height: 86px; padding: 20px 3%; display: flex; align-items: center; gap: 28px; border-bottom: 1px solid #deded5; background: var(--color-fondo); }
+.header__logo { font-size: 29px; font-weight: 950; letter-spacing: -1.5px; white-space: nowrap; }
+.header__logo span { font-size: 10px; vertical-align: top; }
+.header__nav, .header__actions { display: flex; align-items: center; gap: 18px; font-size: 12px; font-weight: 700; }
+.header__actions { margin-left: auto; gap: 16px; }
+.header__link--active { border-bottom: 2px solid var(--color-verde); padding-bottom: 5px; }
+.header__menu { display: none; border: 0; background: none; font-size: 22px; }
